@@ -44,10 +44,11 @@ The pipeline is currently configured to monitor 10 common avian species found in
 
 - **Python 3.11**
 - **birdnetlib** (Wrapping BirdNET-Analyzer v2.4)
-- **pydub** (Audio manipulation)
+- **ffmpeg** (Audio conversion via subprocess)
 - **xeno-canto API v3**
 - **R 4.x** (Statistical analysis)
 - **ggplot2** (Data visualization)
+- **librosa** / **TensorFlow** (birdnetlib audio processing dependencies)
 
 ## Local Setup
 
@@ -55,7 +56,7 @@ Run the following exact PowerShell commands to clone the repository, install dep
 
 ```powershell
 # 1. Clone the repository and navigate into it
-git clone https://github.com/yourusername/birdnet-ct-pipeline.git
+git clone https://github.com/hunterdjacobson/birdnet-ct-pipeline.git
 cd birdnet-ct-pipeline
 
 # 2. Create and activate a Python virtual environment

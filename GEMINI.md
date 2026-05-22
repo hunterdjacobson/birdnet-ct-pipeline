@@ -22,7 +22,7 @@ results with a full metadata log and SOP documentation.
 ## Tech stack
 - Python 3.11
 - birdnetlib (BirdNET-Analyzer wrapper)
-- pydub (audio conversion, requires ffmpeg)
+- ffmpeg
 - requests (xeno-canto API calls — OK to use here, not async)
 - pandas (data management and CSV I/O)
 - R 4.x with ggplot2, dplyr, readr, rmarkdown
@@ -51,7 +51,8 @@ results with a full metadata log and SOP documentation.
 │   └── 05_combine.py
 ├── requirements.txt
 ├── GEMINI.md
-└── README.md```
+└── README.md
+```
 
 ## Coding rules
 - Use type hints on all functions
@@ -71,7 +72,7 @@ xeno-canto API v3 (https://xeno-canto.org/api/3/recordings)
 Requires API key loaded from .env as XC_API_KEY.
 Query params: query (search string, use structured tags e.g. "gen:Turdus sp:migratorius"), 
 key (API key), page (pagination).
-Response JSON: recordings[] array with id, en, file, q, lat, lng, loc, date, length fields.
+Response JSON: recordings[] array with id, en, file, q, lat, lon, loc, date, length fields.
 The "file" field may start with "//" — prepend "https:" if so.
 Never hardcode the API key — load from os.environ only.
 

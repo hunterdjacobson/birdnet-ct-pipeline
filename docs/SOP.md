@@ -22,8 +22,8 @@ The pipeline requires the following environment:
 - **Python 3.11+**
 - **R 4.x** (for downstream analysis and reporting)
 - **ffmpeg:** Must be installed and available in the system PATH for audio conversion.
-- **Python Packages:** `birdnetlib`, `pandas`, `requests`, `python-dotenv`, `pydub`.
-- **R Packages:** `ggplot2`, `dplyr`, `readr`, `rmarkdown`.
+- **Python Packages:** See requirements.txt for the full dependency list. Key packages include: birdnetlib, pandas, requests, python-dotenv, librosa, tensorflow, tqdm
+- **R Packages:** `ggplot2`, `dplyr`, `readr`, `rmarkdown`, `knitr`, `scales`.
 
 ### Environment Configuration
 A `.env` file must exist in the root directory containing your xeno-canto API key:
@@ -54,7 +54,7 @@ python scripts/01_acquire.py
 ### Modification for Different Regions
 To monitor a different region:
 1. Open `scripts/01_acquire.py`.
-2. Update the `SPECIES` list with the desired common names, scientific names, and 8-character codes.
+2. Update the `SPECIES` list with the desired common names, scientific names, and species codes following the pattern of first 4 letters of genus + first 4 letters of species (e.g., TURDMIGR for Turdus migratorius)
 3. Update the `query` variable in `acquire_data()` if you need to change the country (`cnt:"United States"`) or quality filter.
 
 ### Expected Outputs
