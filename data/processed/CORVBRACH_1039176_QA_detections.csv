@@ -1,0 +1,17 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,0.0,3.0,0.9542080163955688
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,3.0,6.0,0.9818476438522339
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,24.0,27.0,0.7495412826538086
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,27.0,30.0,0.9952839016914368
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,33.0,36.0,0.8560676574707031
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,36.0,39.0,0.9910708665847778
+1039176,CORVBRACH_1039176_QA.wav,Canada Goose,Branta canadensis,39.0,42.0,0.2517467439174652
+1039176,CORVBRACH_1039176_QA.wav,Canada Goose,Branta canadensis,42.0,45.0,0.10982892662286758
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,45.0,48.0,0.8877413272857666
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,48.0,51.0,0.977464497089386
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,60.0,63.0,0.890212893486023
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,63.0,66.0,0.9961579442024231
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,72.0,75.0,0.925395667552948
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,75.0,78.0,0.9955533146858215
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,78.0,81.0,0.8299819231033325
+1039176,CORVBRACH_1039176_QA.wav,American Crow,Corvus brachyrhynchos,87.0,90.0,0.995290994644165

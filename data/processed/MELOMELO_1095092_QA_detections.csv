@@ -1,0 +1,6 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1095092,MELOMELO_1095092_QA.wav,Savannah Sparrow,Passerculus sandwichensis,0.0,3.0,0.2053038328886032
+1095092,MELOMELO_1095092_QA.wav,Song Sparrow,Melospiza melodia,9.0,12.0,0.13255786895751953
+1095092,MELOMELO_1095092_QA.wav,Song Sparrow,Melospiza melodia,33.0,36.0,0.3809640407562256
+1095092,MELOMELO_1095092_QA.wav,Song Sparrow,Melospiza melodia,42.0,45.0,0.2960629165172577
+1095092,MELOMELO_1095092_QA.wav,Song Sparrow,Melospiza melodia,51.0,54.0,0.158842533826828

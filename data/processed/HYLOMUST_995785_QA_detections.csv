@@ -1,0 +1,4 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+995785,HYLOMUST_995785_QA.wav,Wood Thrush,Hylocichla mustelina,0.0,3.0,0.9274898767471313
+995785,HYLOMUST_995785_QA.wav,Wood Thrush,Hylocichla mustelina,6.0,9.0,0.7766814231872559
+995785,HYLOMUST_995785_QA.wav,Wood Thrush,Hylocichla mustelina,9.0,12.0,0.9803907871246338

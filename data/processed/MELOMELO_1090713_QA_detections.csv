@@ -1,0 +1,11 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1090713,MELOMELO_1090713_QA.wav,Song Sparrow,Melospiza melodia,0.0,3.0,0.9603440165519714
+1090713,MELOMELO_1090713_QA.wav,Song Sparrow,Melospiza melodia,3.0,6.0,0.44317445158958435
+1090713,MELOMELO_1090713_QA.wav,Song Sparrow,Melospiza melodia,9.0,12.0,0.8781828284263611
+1090713,MELOMELO_1090713_QA.wav,Willow Flycatcher,Empidonax traillii,21.0,24.0,0.10562097281217575
+1090713,MELOMELO_1090713_QA.wav,Song Sparrow,Melospiza melodia,27.0,30.0,0.768966555595398
+1090713,MELOMELO_1090713_QA.wav,Yellow-rumped Warbler,Setophaga coronata,33.0,36.0,0.28466737270355225
+1090713,MELOMELO_1090713_QA.wav,Canada Goose,Branta canadensis,33.0,36.0,0.10431002080440521
+1090713,MELOMELO_1090713_QA.wav,Song Sparrow,Melospiza melodia,42.0,45.0,0.5315220952033997
+1090713,MELOMELO_1090713_QA.wav,Song Sparrow,Melospiza melodia,45.0,48.0,0.6165305972099304
+1090713,MELOMELO_1090713_QA.wav,Savannah Sparrow,Passerculus sandwichensis,45.0,48.0,0.10164204984903336

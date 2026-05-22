@@ -1,0 +1,11 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1107066,SETORUTI_1107066_QA.wav,American Redstart,Setophaga ruticilla,0.0,3.0,0.9356708526611328
+1107066,SETORUTI_1107066_QA.wav,Magnolia Warbler,Setophaga magnolia,0.0,3.0,0.24669314920902252
+1107066,SETORUTI_1107066_QA.wav,American Redstart,Setophaga ruticilla,3.0,6.0,0.8977953195571899
+1107066,SETORUTI_1107066_QA.wav,American Redstart,Setophaga ruticilla,6.0,9.0,0.1922864466905594
+1107066,SETORUTI_1107066_QA.wav,Magnolia Warbler,Setophaga magnolia,6.0,9.0,0.1684625893831253
+1107066,SETORUTI_1107066_QA.wav,American Redstart,Setophaga ruticilla,9.0,12.0,0.4096432030200958
+1107066,SETORUTI_1107066_QA.wav,Yellow Warbler,Setophaga petechia,9.0,12.0,0.23805378377437592
+1107066,SETORUTI_1107066_QA.wav,American Redstart,Setophaga ruticilla,12.0,15.0,0.9843598008155823
+1107066,SETORUTI_1107066_QA.wav,Magnolia Warbler,Setophaga magnolia,12.0,15.0,0.11090394109487534
+1107066,SETORUTI_1107066_QA.wav,Magnolia Warbler,Setophaga magnolia,15.0,18.0,0.2891192138195038

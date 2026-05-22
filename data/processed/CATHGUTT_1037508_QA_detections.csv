@@ -1,0 +1,15 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,0.0,3.0,0.986952543258667
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,9.0,12.0,0.9629797339439392
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,12.0,15.0,0.49108096957206726
+1037508,CATHGUTT_1037508_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,15.0,18.0,0.14238452911376953
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,18.0,21.0,0.47778385877609253
+1037508,CATHGUTT_1037508_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,21.0,24.0,0.12565986812114716
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,24.0,27.0,0.9817371368408203
+1037508,CATHGUTT_1037508_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,27.0,30.0,0.20173178613185883
+1037508,CATHGUTT_1037508_QA.wav,Wood Thrush,Hylocichla mustelina,30.0,33.0,0.33625584840774536
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,30.0,33.0,0.1622895747423172
+1037508,CATHGUTT_1037508_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,33.0,36.0,0.19909769296646118
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,42.0,45.0,0.9163349270820618
+1037508,CATHGUTT_1037508_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,48.0,51.0,0.24648968875408173
+1037508,CATHGUTT_1037508_QA.wav,Hermit Thrush,Catharus guttatus,51.0,54.0,0.837363064289093

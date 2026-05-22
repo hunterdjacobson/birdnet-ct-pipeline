@@ -1,0 +1,9 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1071279,CATHGUTT_1071279_QA.wav,Hermit Thrush,Catharus guttatus,0.0,3.0,0.34899356961250305
+1071279,CATHGUTT_1071279_QA.wav,Hermit Thrush,Catharus guttatus,3.0,6.0,0.11669767647981644
+1071279,CATHGUTT_1071279_QA.wav,Yellow-billed Cuckoo,Coccyzus americanus,3.0,6.0,0.11257164180278778
+1071279,CATHGUTT_1071279_QA.wav,Hermit Thrush,Catharus guttatus,6.0,9.0,0.12897616624832153
+1071279,CATHGUTT_1071279_QA.wav,Blue Jay,Cyanocitta cristata,6.0,9.0,0.1044011265039444
+1071279,CATHGUTT_1071279_QA.wav,Hermit Thrush,Catharus guttatus,9.0,12.0,0.7739286422729492
+1071279,CATHGUTT_1071279_QA.wav,Hermit Thrush,Catharus guttatus,12.0,15.0,0.8688903450965881
+1071279,CATHGUTT_1071279_QA.wav,Hermit Thrush,Catharus guttatus,15.0,18.0,0.17588816583156586

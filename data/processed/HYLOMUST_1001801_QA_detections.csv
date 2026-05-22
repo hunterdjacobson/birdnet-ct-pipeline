@@ -1,0 +1,13 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,3.0,6.0,0.9947764873504639
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,6.0,9.0,0.9984034895896912
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,9.0,12.0,0.9741487503051758
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,12.0,15.0,0.49999988079071045
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,15.0,18.0,0.9977167844772339
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,18.0,21.0,0.9444212317466736
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,21.0,24.0,0.19636841118335724
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,24.0,27.0,0.9937418103218079
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,30.0,33.0,0.9973260164260864
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,36.0,39.0,0.9960749745368958
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,39.0,42.0,0.9920130372047424
+1001801,HYLOMUST_1001801_QA.wav,Wood Thrush,Hylocichla mustelina,42.0,45.0,0.659835159778595

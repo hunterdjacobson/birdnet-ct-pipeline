@@ -1,0 +1,7 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+792207,ZONOALBI_792207_QA.wav,White-throated Sparrow,Zonotrichia albicollis,0.0,3.0,0.9114275574684143
+792207,ZONOALBI_792207_QA.wav,White-throated Sparrow,Zonotrichia albicollis,3.0,6.0,0.9804313778877258
+792207,ZONOALBI_792207_QA.wav,White-throated Sparrow,Zonotrichia albicollis,6.0,9.0,0.7306059002876282
+792207,ZONOALBI_792207_QA.wav,White-throated Sparrow,Zonotrichia albicollis,9.0,12.0,0.7832197546958923
+792207,ZONOALBI_792207_QA.wav,White-throated Sparrow,Zonotrichia albicollis,12.0,15.0,0.8512443900108337
+792207,ZONOALBI_792207_QA.wav,White-throated Sparrow,Zonotrichia albicollis,15.0,18.0,0.4124172329902649

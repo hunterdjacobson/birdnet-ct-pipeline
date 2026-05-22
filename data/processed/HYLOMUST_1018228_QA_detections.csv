@@ -1,0 +1,15 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,0.0,3.0,0.7534510493278503
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,6.0,9.0,0.2344096451997757
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,9.0,12.0,0.5547412633895874
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,21.0,24.0,0.828529953956604
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,24.0,27.0,0.12855534255504608
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,27.0,30.0,0.15434639155864716
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,30.0,33.0,0.5006522536277771
+1018228,HYLOMUST_1018228_QA.wav,Veery,Catharus fuscescens,30.0,33.0,0.11405905336141586
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,36.0,39.0,0.1257040947675705
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,39.0,42.0,0.7677196860313416
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,42.0,45.0,0.3672454357147217
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,45.0,48.0,0.2725250720977783
+1018228,HYLOMUST_1018228_QA.wav,Wood Thrush,Hylocichla mustelina,48.0,51.0,0.8928241729736328
+1018228,HYLOMUST_1018228_QA.wav,Northern Cardinal,Cardinalis cardinalis,51.0,54.0,0.10360616445541382

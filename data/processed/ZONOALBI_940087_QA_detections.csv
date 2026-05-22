@@ -1,0 +1,10 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+940087,ZONOALBI_940087_QA.wav,White-throated Sparrow,Zonotrichia albicollis,0.0,3.0,0.9452342391014099
+940087,ZONOALBI_940087_QA.wav,White-throated Sparrow,Zonotrichia albicollis,3.0,6.0,0.3945799767971039
+940087,ZONOALBI_940087_QA.wav,Blue Jay,Cyanocitta cristata,3.0,6.0,0.15112212300300598
+940087,ZONOALBI_940087_QA.wav,White-throated Sparrow,Zonotrichia albicollis,6.0,9.0,0.33936381340026855
+940087,ZONOALBI_940087_QA.wav,Blue Jay,Cyanocitta cristata,9.0,12.0,0.4767155349254608
+940087,ZONOALBI_940087_QA.wav,White-throated Sparrow,Zonotrichia albicollis,12.0,15.0,0.4650470018386841
+940087,ZONOALBI_940087_QA.wav,White-throated Sparrow,Zonotrichia albicollis,15.0,18.0,0.636873185634613
+940087,ZONOALBI_940087_QA.wav,Blue Jay,Cyanocitta cristata,15.0,18.0,0.4833199977874756
+940087,ZONOALBI_940087_QA.wav,Blue Jay,Cyanocitta cristata,18.0,21.0,0.8862641453742981

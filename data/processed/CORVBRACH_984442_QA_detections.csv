@@ -1,0 +1,5 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+984442,CORVBRACH_984442_QA.wav,Fish Crow,Corvus ossifragus,21.0,24.0,0.11357923597097397
+984442,CORVBRACH_984442_QA.wav,American Crow,Corvus brachyrhynchos,30.0,33.0,0.19262588024139404
+984442,CORVBRACH_984442_QA.wav,Red-bellied Woodpecker,Melanerpes carolinus,45.0,48.0,0.4593622088432312
+984442,CORVBRACH_984442_QA.wav,American Crow,Corvus brachyrhynchos,63.0,66.0,0.19920751452445984

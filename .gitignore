@@ -220,6 +220,5 @@ __marimo__/
 venv/
 data/raw/
 data/wav/
-data/processed/
 __pycache__/
 *.pyc

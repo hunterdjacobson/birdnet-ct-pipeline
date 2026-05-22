@@ -1,0 +1,9 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1133843,CORVBRACH_1133843_QA.wav,Red-bellied Woodpecker,Melanerpes carolinus,0.0,3.0,0.8378968834877014
+1133843,CORVBRACH_1133843_QA.wav,American Crow,Corvus brachyrhynchos,6.0,9.0,0.7101432085037231
+1133843,CORVBRACH_1133843_QA.wav,American Crow,Corvus brachyrhynchos,9.0,12.0,0.5756106972694397
+1133843,CORVBRACH_1133843_QA.wav,American Crow,Corvus brachyrhynchos,15.0,18.0,0.6167199611663818
+1133843,CORVBRACH_1133843_QA.wav,American Crow,Corvus brachyrhynchos,18.0,21.0,0.5121744275093079
+1133843,CORVBRACH_1133843_QA.wav,Fish Crow,Corvus ossifragus,24.0,27.0,0.1103375107049942
+1133843,CORVBRACH_1133843_QA.wav,American Crow,Corvus brachyrhynchos,27.0,30.0,0.4952711760997772
+1133843,CORVBRACH_1133843_QA.wav,American Crow,Corvus brachyrhynchos,33.0,36.0,0.7342944741249084

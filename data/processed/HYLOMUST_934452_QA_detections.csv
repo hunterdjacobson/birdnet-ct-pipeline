@@ -1,0 +1,11 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,0.0,3.0,0.31939250230789185
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,3.0,6.0,0.7754323482513428
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,6.0,9.0,0.3288625478744507
+934452,HYLOMUST_934452_QA.wav,American Redstart,Setophaga ruticilla,6.0,9.0,0.11385984718799591
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,9.0,12.0,0.17385196685791016
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,12.0,15.0,0.7969444990158081
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,15.0,18.0,0.6608783602714539
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,18.0,21.0,0.9007740616798401
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,21.0,24.0,0.7847051620483398
+934452,HYLOMUST_934452_QA.wav,Wood Thrush,Hylocichla mustelina,24.0,27.0,0.9160056114196777

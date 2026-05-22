@@ -1,0 +1,10 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,0.0,3.0,0.9377187490463257
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,3.0,6.0,0.1233137771487236
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,6.0,9.0,0.32965990900993347
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,9.0,12.0,0.5414072275161743
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,15.0,18.0,0.879420280456543
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,18.0,21.0,0.5478578805923462
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,21.0,24.0,0.4350282549858093
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,24.0,27.0,0.777486264705658
+1080765,CATHGUTT_1080765_QA.wav,Hermit Thrush,Catharus guttatus,27.0,30.0,0.9117637872695923

@@ -1,0 +1,14 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1037293,SEIUAURO_1037293_QA.wav,Hermit Thrush,Catharus guttatus,0.0,3.0,0.11501102894544601
+1037293,SEIUAURO_1037293_QA.wav,Ovenbird,Seiurus aurocapilla,3.0,6.0,0.9942723512649536
+1037293,SEIUAURO_1037293_QA.wav,Eastern Wood-Pewee,Contopus virens,6.0,9.0,0.22437813878059387
+1037293,SEIUAURO_1037293_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,6.0,9.0,0.10188336670398712
+1037293,SEIUAURO_1037293_QA.wav,Least Flycatcher,Empidonax minimus,9.0,12.0,0.1239304468035698
+1037293,SEIUAURO_1037293_QA.wav,Canada Warbler,Cardellina canadensis,12.0,15.0,0.18567191064357758
+1037293,SEIUAURO_1037293_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,12.0,15.0,0.171695739030838
+1037293,SEIUAURO_1037293_QA.wav,Hermit Thrush,Catharus guttatus,15.0,18.0,0.7816909551620483
+1037293,SEIUAURO_1037293_QA.wav,Wood Thrush,Hylocichla mustelina,18.0,21.0,0.23337478935718536
+1037293,SEIUAURO_1037293_QA.wav,Eastern Wood-Pewee,Contopus virens,21.0,24.0,0.10402820259332657
+1037293,SEIUAURO_1037293_QA.wav,Least Flycatcher,Empidonax minimus,24.0,27.0,0.15268383920192719
+1037293,SEIUAURO_1037293_QA.wav,Ovenbird,Seiurus aurocapilla,27.0,30.0,0.9926421046257019
+1037293,SEIUAURO_1037293_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,30.0,33.0,0.12340091913938522

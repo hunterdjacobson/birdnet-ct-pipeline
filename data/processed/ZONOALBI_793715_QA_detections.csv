@@ -1,0 +1,12 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+793715,ZONOALBI_793715_QA.wav,Red-winged Blackbird,Agelaius phoeniceus,0.0,3.0,0.1196993738412857
+793715,ZONOALBI_793715_QA.wav,White-throated Sparrow,Zonotrichia albicollis,3.0,6.0,0.3609454035758972
+793715,ZONOALBI_793715_QA.wav,White-throated Sparrow,Zonotrichia albicollis,6.0,9.0,0.6158031821250916
+793715,ZONOALBI_793715_QA.wav,White-throated Sparrow,Zonotrichia albicollis,9.0,12.0,0.5843589901924133
+793715,ZONOALBI_793715_QA.wav,Northern Cardinal,Cardinalis cardinalis,9.0,12.0,0.22763009369373322
+793715,ZONOALBI_793715_QA.wav,White-throated Sparrow,Zonotrichia albicollis,12.0,15.0,0.3751959502696991
+793715,ZONOALBI_793715_QA.wav,White-throated Sparrow,Zonotrichia albicollis,21.0,24.0,0.30840998888015747
+793715,ZONOALBI_793715_QA.wav,White-throated Sparrow,Zonotrichia albicollis,24.0,27.0,0.8649911284446716
+793715,ZONOALBI_793715_QA.wav,Northern Cardinal,Cardinalis cardinalis,42.0,45.0,0.14398469030857086
+793715,ZONOALBI_793715_QA.wav,White-throated Sparrow,Zonotrichia albicollis,54.0,57.0,0.49364370107650757
+793715,ZONOALBI_793715_QA.wav,Northern Cardinal,Cardinalis cardinalis,54.0,57.0,0.2696894705295563

@@ -1,0 +1,5 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1095084,POECATRI_1095084_QA.wav,Black-capped Chickadee,Poecile atricapillus,0.0,3.0,0.7929084897041321
+1095084,POECATRI_1095084_QA.wav,Black-capped Chickadee,Poecile atricapillus,3.0,6.0,0.9966417551040649
+1095084,POECATRI_1095084_QA.wav,Black-capped Chickadee,Poecile atricapillus,6.0,9.0,0.9407163858413696
+1095084,POECATRI_1095084_QA.wav,Black-capped Chickadee,Poecile atricapillus,9.0,12.0,0.9894160032272339

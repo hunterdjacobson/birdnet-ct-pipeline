@@ -1,0 +1,6 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1079599,SETORUTI_1079599_QA.wav,American Redstart,Setophaga ruticilla,0.0,3.0,0.6316105723381042
+1079599,SETORUTI_1079599_QA.wav,American Redstart,Setophaga ruticilla,3.0,6.0,0.3847658336162567
+1079599,SETORUTI_1079599_QA.wav,Chestnut-sided Warbler,Setophaga pensylvanica,3.0,6.0,0.15365155041217804
+1079599,SETORUTI_1079599_QA.wav,American Redstart,Setophaga ruticilla,9.0,12.0,0.9849948287010193
+1079599,SETORUTI_1079599_QA.wav,American Redstart,Setophaga ruticilla,18.0,21.0,0.9678566455841064

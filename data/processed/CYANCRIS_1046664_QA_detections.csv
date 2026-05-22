@@ -1,0 +1,5 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1046664,CYANCRIS_1046664_QA.wav,Blue Jay,Cyanocitta cristata,0.0,3.0,0.9875264763832092
+1046664,CYANCRIS_1046664_QA.wav,Blue Jay,Cyanocitta cristata,3.0,6.0,0.9370533227920532
+1046664,CYANCRIS_1046664_QA.wav,Blue Jay,Cyanocitta cristata,6.0,9.0,0.9134328961372375
+1046664,CYANCRIS_1046664_QA.wav,Blue Jay,Cyanocitta cristata,9.0,12.0,0.9211980104446411

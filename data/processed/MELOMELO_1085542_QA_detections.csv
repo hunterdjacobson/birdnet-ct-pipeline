@@ -1,0 +1,4 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1085542,MELOMELO_1085542_QA.wav,Song Sparrow,Melospiza melodia,3.0,6.0,0.4645121395587921
+1085542,MELOMELO_1085542_QA.wav,Song Sparrow,Melospiza melodia,9.0,12.0,0.3744244873523712
+1085542,MELOMELO_1085542_QA.wav,Song Sparrow,Melospiza melodia,18.0,21.0,0.3967365026473999

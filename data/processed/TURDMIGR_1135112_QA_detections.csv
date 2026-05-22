@@ -1,0 +1,9 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,0.0,3.0,0.8658065795898438
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,3.0,6.0,0.9116818308830261
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,6.0,9.0,0.6251662373542786
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,9.0,12.0,0.9321886301040649
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,12.0,15.0,0.9384971857070923
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,15.0,18.0,0.8421288728713989
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,21.0,24.0,0.9059215784072876
+1135112,TURDMIGR_1135112_QA.wav,American Robin,Turdus migratorius,24.0,27.0,0.619845449924469

@@ -1,0 +1,6 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+939900,SETORUTI_939900_QA.wav,American Redstart,Setophaga ruticilla,0.0,3.0,0.9048694968223572
+939900,SETORUTI_939900_QA.wav,American Redstart,Setophaga ruticilla,3.0,6.0,0.34123313426971436
+939900,SETORUTI_939900_QA.wav,Yellow-bellied Sapsucker,Sphyrapicus varius,6.0,9.0,0.6433117985725403
+939900,SETORUTI_939900_QA.wav,Yellow-billed Cuckoo,Coccyzus americanus,6.0,9.0,0.12833023071289062
+939900,SETORUTI_939900_QA.wav,American Redstart,Setophaga ruticilla,9.0,12.0,0.8324499130249023

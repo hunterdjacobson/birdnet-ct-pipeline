@@ -1,0 +1,10 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1082018,MELOMELO_1082018_QA.wav,Song Sparrow,Melospiza melodia,0.0,3.0,0.8588154911994934
+1082018,MELOMELO_1082018_QA.wav,Red-shouldered Hawk,Buteo lineatus,6.0,9.0,0.7780611515045166
+1082018,MELOMELO_1082018_QA.wav,Red-shouldered Hawk,Buteo lineatus,9.0,12.0,0.8210238814353943
+1082018,MELOMELO_1082018_QA.wav,Red-shouldered Hawk,Buteo lineatus,12.0,15.0,0.9197012782096863
+1082018,MELOMELO_1082018_QA.wav,Song Sparrow,Melospiza melodia,15.0,18.0,0.6947171688079834
+1082018,MELOMELO_1082018_QA.wav,Savannah Sparrow,Passerculus sandwichensis,21.0,24.0,0.22144776582717896
+1082018,MELOMELO_1082018_QA.wav,Song Sparrow,Melospiza melodia,27.0,30.0,0.8719429969787598
+1082018,MELOMELO_1082018_QA.wav,Song Sparrow,Melospiza melodia,39.0,42.0,0.8636108636856079
+1082018,MELOMELO_1082018_QA.wav,Song Sparrow,Melospiza melodia,42.0,45.0,0.2486034333705902

@@ -1,0 +1,8 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1089129,TURDMIGR_1089129_QA.wav,American Robin,Turdus migratorius,0.0,3.0,0.7291193008422852
+1089129,TURDMIGR_1089129_QA.wav,American Robin,Turdus migratorius,3.0,6.0,0.7720808982849121
+1089129,TURDMIGR_1089129_QA.wav,Downy Woodpecker,Dryobates pubescens,3.0,6.0,0.23171336948871613
+1089129,TURDMIGR_1089129_QA.wav,Hairy Woodpecker,Dryobates villosus,3.0,6.0,0.1780213564634323
+1089129,TURDMIGR_1089129_QA.wav,American Robin,Turdus migratorius,6.0,9.0,0.9089170098304749
+1089129,TURDMIGR_1089129_QA.wav,American Robin,Turdus migratorius,9.0,12.0,0.8755373954772949
+1089129,TURDMIGR_1089129_QA.wav,American Robin,Turdus migratorius,12.0,15.0,0.14843612909317017

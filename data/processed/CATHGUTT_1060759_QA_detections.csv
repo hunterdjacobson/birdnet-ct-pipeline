@@ -1,0 +1,11 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1060759,CATHGUTT_1060759_QA.wav,White-throated Sparrow,Zonotrichia albicollis,0.0,3.0,0.7702511548995972
+1060759,CATHGUTT_1060759_QA.wav,Hermit Thrush,Catharus guttatus,3.0,6.0,0.411628395318985
+1060759,CATHGUTT_1060759_QA.wav,White-throated Sparrow,Zonotrichia albicollis,3.0,6.0,0.17852838337421417
+1060759,CATHGUTT_1060759_QA.wav,Hermit Thrush,Catharus guttatus,6.0,9.0,0.4872855544090271
+1060759,CATHGUTT_1060759_QA.wav,White-throated Sparrow,Zonotrichia albicollis,6.0,9.0,0.21421918272972107
+1060759,CATHGUTT_1060759_QA.wav,White-throated Sparrow,Zonotrichia albicollis,9.0,12.0,0.952035129070282
+1060759,CATHGUTT_1060759_QA.wav,White-throated Sparrow,Zonotrichia albicollis,12.0,15.0,0.7338805198669434
+1060759,CATHGUTT_1060759_QA.wav,Hermit Thrush,Catharus guttatus,18.0,21.0,0.9555431008338928
+1060759,CATHGUTT_1060759_QA.wav,Hermit Thrush,Catharus guttatus,24.0,27.0,0.8388704657554626
+1060759,CATHGUTT_1060759_QA.wav,Hermit Thrush,Catharus guttatus,33.0,36.0,0.8707016706466675

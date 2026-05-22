@@ -1,0 +1,4 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+934448,SEIUAURO_934448_QA.wav,Ovenbird,Seiurus aurocapilla,0.0,3.0,0.9976835250854492
+934448,SEIUAURO_934448_QA.wav,Ovenbird,Seiurus aurocapilla,3.0,6.0,0.9882975220680237
+934448,SEIUAURO_934448_QA.wav,Black-throated Blue Warbler,Setophaga caerulescens,6.0,9.0,0.11565253883600235

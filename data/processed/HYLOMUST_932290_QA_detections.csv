@@ -1,0 +1,10 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+932290,HYLOMUST_932290_QA.wav,Wood Thrush,Hylocichla mustelina,0.0,3.0,0.8939604163169861
+932290,HYLOMUST_932290_QA.wav,Least Flycatcher,Empidonax minimus,3.0,6.0,0.5207719206809998
+932290,HYLOMUST_932290_QA.wav,Wood Thrush,Hylocichla mustelina,6.0,9.0,0.8191152811050415
+932290,HYLOMUST_932290_QA.wav,Gray Catbird,Dumetella carolinensis,9.0,12.0,0.2635331153869629
+932290,HYLOMUST_932290_QA.wav,Wood Thrush,Hylocichla mustelina,12.0,15.0,0.9307756423950195
+932290,HYLOMUST_932290_QA.wav,Least Flycatcher,Empidonax minimus,15.0,18.0,0.33024460077285767
+932290,HYLOMUST_932290_QA.wav,Wood Thrush,Hylocichla mustelina,21.0,24.0,0.8952729105949402
+932290,HYLOMUST_932290_QA.wav,Wood Thrush,Hylocichla mustelina,27.0,30.0,0.9832277297973633
+932290,HYLOMUST_932290_QA.wav,Wood Thrush,Hylocichla mustelina,33.0,36.0,0.18470212817192078

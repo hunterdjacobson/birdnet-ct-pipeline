@@ -28,7 +28,7 @@ results with a full metadata log and SOP documentation.
 - R 4.x with ggplot2, dplyr, readr, rmarkdown
 
 ## Project structure
-birdnet-ct-pipeline/
+```birdnet-ct-pipeline/
 ├── data/
 │   ├── raw/              # original .mp3 from xeno-canto (never modified)
 │   ├── wav/              # converted .wav files ready for BirdNET
@@ -51,7 +51,7 @@ birdnet-ct-pipeline/
 │   └── 05_combine.py
 ├── requirements.txt
 ├── GEMINI.md
-└── README.md
+└── README.md```
 
 ## Coding rules
 - Use type hints on all functions

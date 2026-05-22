@@ -1,0 +1,7 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1089603,MELOMELO_1089603_QA.wav,Song Sparrow,Melospiza melodia,0.0,3.0,0.8961050510406494
+1089603,MELOMELO_1089603_QA.wav,Song Sparrow,Melospiza melodia,3.0,6.0,0.15214505791664124
+1089603,MELOMELO_1089603_QA.wav,Tree Swallow,Tachycineta bicolor,6.0,9.0,0.4643464982509613
+1089603,MELOMELO_1089603_QA.wav,Downy Woodpecker,Dryobates pubescens,6.0,9.0,0.1309559941291809
+1089603,MELOMELO_1089603_QA.wav,Song Sparrow,Melospiza melodia,9.0,12.0,0.8632979989051819
+1089603,MELOMELO_1089603_QA.wav,Song Sparrow,Melospiza melodia,12.0,15.0,0.32652196288108826

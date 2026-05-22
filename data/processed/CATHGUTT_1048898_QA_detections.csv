@@ -1,0 +1,10 @@
+xc_id,filename_wav,common_name,scientific_name,start_time,end_time,confidence
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,0.0,3.0,0.9307402968406677
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,3.0,6.0,0.909049391746521
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,6.0,9.0,0.6730238199234009
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,9.0,12.0,0.7280696034431458
+1048898,CATHGUTT_1048898_QA.wav,Wood Thrush,Hylocichla mustelina,21.0,24.0,0.20772762596607208
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,24.0,27.0,0.5117409229278564
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,27.0,30.0,0.974349319934845
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,33.0,36.0,0.9950264096260071
+1048898,CATHGUTT_1048898_QA.wav,Hermit Thrush,Catharus guttatus,39.0,42.0,0.9904014468193054
