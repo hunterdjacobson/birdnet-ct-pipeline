@@ -140,7 +140,7 @@ def acquire_data():
                 "scientific_name": sp["scientific_name"],
                 "quality": quality,
                 "lat": rec.get("lat"),
-                "lng": rec.get("lng"),
+                "lng": rec.get("lon"),
                 "location": rec.get("loc"),
                 "date_recorded": rec.get("date"),
                 "length_seconds": rec.get("length"),
