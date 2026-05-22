@@ -66,6 +66,15 @@ birdnet-ct-pipeline/
 - Print progress to stdout as processing happens
 - Connecticut lat/lon: 41.6032, -73.0877
 
+## Data source
+xeno-canto API v3 (https://xeno-canto.org/api/3/recordings)
+Requires API key loaded from .env as XC_API_KEY.
+Query params: query (search string, use structured tags e.g. "gen:Turdus sp:migratorius"), 
+key (API key), page (pagination).
+Response JSON: recordings[] array with id, en, file, q, lat, lng, loc, date, length fields.
+The "file" field may start with "//" — prepend "https:" if so.
+Never hardcode the API key — load from os.environ only.
+
 ## What to never do
 - Never modify files in data/raw/
 - Never hardcode paths — always use pathlib.Path(__file__).parent
