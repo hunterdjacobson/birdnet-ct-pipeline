@@ -59,18 +59,27 @@ def log_recording(data: dict):
         writer.writerow(data)
 
 def download_file(url: str, dest: Path) -> bool:
-    """Download a file from a URL to a destination path."""
+    """Download a file from a URL, validating it is audio content."""
     try:
-        with requests.get(url, timeout=10, stream=True) as r:
+        with requests.get(url, timeout=10, stream=True, allow_redirects=True) as r:
             r.raise_for_status()
+            content_type = r.headers.get("Content-Type", "")
+            if "text/html" in content_type:
+                print(f"  Rejected: server returned HTML instead of audio (auth issue?)")
+                return False
             with open(dest, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192):
                     f.write(chunk)
+        # Sanity check: real MP3s are at least 10KB
+        if dest.stat().st_size < 10_000:
+            print(f"  Rejected: file too small ({dest.stat().st_size} bytes), likely not audio")
+            dest.unlink()
+            return False
         return True
     except Exception as e:
         print(f"  Failed to download {url}: {e}")
         return False
-
+    
 def acquire_data():
     """Main function to acquire data from xeno-canto."""
     init_log()
@@ -107,6 +116,13 @@ def acquire_data():
             
             if file_url.startswith("//"):
                 file_url = "https:" + file_url
+
+            # v3 requires the API key on the download URL itself
+            if "?" in file_url:
+                file_url = f"{file_url}&key={XC_API_KEY}"
+            else:
+                file_url = f"{file_url}?key={XC_API_KEY}"
+
             
             xc_id = rec.get("id")
             quality = rec.get("q", "Unknown")
