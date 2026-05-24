@@ -46,7 +46,7 @@ The pipeline is currently configured to monitor 10 common avian species found in
 - **birdnetlib** (Wrapping BirdNET-Analyzer v2.4)
 - **ffmpeg** (Audio conversion via subprocess)
 - **xeno-canto API v3**
-- **R 4.x** (Statistical analysis)
+- **R 4.6.0** (Statistical analysis)
 - **ggplot2** (Data visualization)
 - **librosa** / **TensorFlow** (birdnetlib audio processing dependencies)
 
